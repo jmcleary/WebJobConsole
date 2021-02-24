@@ -13,6 +13,8 @@ namespace WebJobConsole
             Console.WriteLine("hello world webjob test");
 
             Console.WriteLine("editing the file");
+            
+             Console.WriteLine("another edit");
         }
     }
 }
