@@ -14,7 +14,7 @@ namespace WebJobConsole
 
             Console.WriteLine("editing the file");
             
-             Console.WriteLine("another edit");
+            Console.WriteLine("another edit");
         }
     }
 }
